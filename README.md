@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rdessart
 - 👀 I’m interested in : aviation ✈️, C, C++, Python3, SQL, C#, Arduino Electronics
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, Project management
 - 💞️ I’m looking to collaborate on aviation projects
 - 📫 You can reach me on [my e-mail](mailto:romaindessart@gmail.com)
 - 📣 From 🇧🇪 Speaking : French 🇫🇷 English 🇬🇧 and a bit of Dutch 🇱🇺
