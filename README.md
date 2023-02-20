@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning C#, Project management
 - 💞️ I’m looking to collaborate on aviation projects
 - 📫 You can reach me on [my e-mail](mailto:romaindessart@gmail.com)
-- 📣 From 🇧🇪 Speaking : French 🇫🇷 English 🇬🇧 and a bit of Dutch 🇱🇺
+- 📣 From 🇧🇪 Speaking : French, English and a bit of Dutch
